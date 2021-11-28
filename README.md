@@ -1,2 +1,2 @@
-# M1_projecttype_goal
+# M1_projecttype_goa
 this is my first repository
